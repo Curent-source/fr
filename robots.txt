@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://icact.github.io/sitemap.xml
